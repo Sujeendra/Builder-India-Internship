@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Builder India</string>
+    <string name="call_input_hint">Demo number:Dont enter number here</string>
+</resources>
